@@ -13,4 +13,10 @@ class aa {
 
     private aa() {
     }
+
+
+    public void bbbb()
+    {
+        System.out.println("");
+    }
 }

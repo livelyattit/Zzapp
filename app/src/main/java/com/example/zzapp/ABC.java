@@ -20,5 +20,9 @@ public class ABC extends MainActivity {
     {
         System.out.println(aa);
     }
+    public void cccc()
+    {
+        System.out.println(aa);
+    }
 
 }
