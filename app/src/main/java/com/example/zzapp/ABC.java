@@ -5,4 +5,13 @@ package com.example.zzapp;
  */
 
 public class ABC extends MainActivity {
+
+
+    int aa = 0;
+
+    
+    public void aaaa()
+    {
+        System.out.println(aa);
+    }
 }
