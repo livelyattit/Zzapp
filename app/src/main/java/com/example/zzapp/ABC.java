@@ -9,9 +9,16 @@ public class ABC extends MainActivity {
 
     int aa = 0;
 
-    
+
     public void aaaa()
     {
         System.out.println(aa);
     }
+
+
+    public void bbbb()
+    {
+        System.out.println(aa);
+    }
+
 }
